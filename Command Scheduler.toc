@@ -1,0 +1,15 @@
+## Interface: 110200
+## Title: Command Scheduler
+## Notes: Schedule slash commands and Lua code to run after a specified delay
+## Notes-deDE: Slash-Befehle und Lua-Code nach einer bestimmten Verzögerung ausführen
+## Notes-frFR: Planifier des commandes slash et du code Lua pour s'exécuter après un délai spécifié
+## Notes-esES: Programar comandos slash y código Lua para ejecutarse después de un retraso específico
+## Notes-ruRU: Планировать выполнение slash-команд и Lua-кода после указанной задержки
+## Notes-koKR: 지정된 지연 후에 슬래시 명령어와 Lua 코드를 실행하도록 예약
+## Notes-zhCN: 在指定延迟后执行斜杠命令和Lua代码
+## Notes-zhTW: 在指定延遲後執行斜線命令和Lua代碼
+## Author: Znuff
+## Version: 0.1.0
+## Icon: command_scheduler.png
+
+core.lua
